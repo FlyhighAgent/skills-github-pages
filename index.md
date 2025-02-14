@@ -1,4 +1,6 @@
 ---
-title: Welcome to my blog
+AI-Lo: Welcome to my blog
 ---
-
+- [x] Intro
+- [ ] Quotes
+- [ ] Fav Authors
